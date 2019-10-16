@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <item_status id="1" name="Booked"/>
+    <item_status id="2" name="Available"/>
+</dataset>
+

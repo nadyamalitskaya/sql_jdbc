@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <status_comment id="1" user_id="1" item_id="1" comment="Very bad!"
+                    comment_date="2017-03-24"/>
+    <status_comment id="2" user_id="2" item_id="2" comment="Very cool!"
+                    comment_date="2018-03-24"/>
+</dataset>

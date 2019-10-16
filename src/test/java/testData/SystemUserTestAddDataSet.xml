@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <user_login id="1" login_name="nadya" password="1j2hvebjewjfcw2"
+                email="nadya@gmail.com"/>
+    <user_login id="2" login_name="dimochka" password="12e23tiujerfervg"
+                email="dima@gmail.com"/>
+    <user_login id="3" login_name="superAdmin" password="ervrevg435t54gv"
+                email="oler@nure.ua"/>
+
+    <user_role id="1" role_name="user"/>
+    <user_role id="2" role_name="admin"/>
+</dataset>

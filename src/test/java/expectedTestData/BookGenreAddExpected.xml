@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <book_genre id="1" book_id="1" genre_id="1"/>
+    <book_genre id="2" book_id="2" genre_id="3"/>
+    <book_genre id="3" book_id="3" genre_id="2"/>
+</dataset>

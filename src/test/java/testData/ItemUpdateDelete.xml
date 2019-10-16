@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <book id="1" address_in_storage="40233" name="Atlas Shrugged"
+          language="english" volume="2"/>
+    <book id="2" address_in_storage="14524" name="The Iliad" language="english"
+          volume="1"/>
+
+    <item_status id="1" name="Booked"/>
+
+    <item id="1" publish_year="1998" publish_office="Lebra" book_id="1"
+          item_status_id="1"/>
+    <item id="2" publish_year="2000" publish_office="Lebra" book_id="2"
+          item_status_id="1"/>
+</dataset>
+

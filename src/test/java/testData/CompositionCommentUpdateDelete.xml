@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <book id="1" address_in_storage="14524" name="The Iliad" language="english"
+          volume="1"/>
+    <book id="2" address_in_storage="40233" name="Atlas Shrugged"
+          language="english" volume="2"/>
+
+    <user_login id="1" login_name="nadya" password="1j2hvebjewjfcw2"
+                email="nadya@gmail.com"/>
+    <user_login id="2" login_name="dimochka" password="12e23tiujerfervg"
+                email="dima@gmail.com"/>
+
+    <user_role id="1" role_name="user"/>
+
+    <system_user id="1" first_name="Nadyya" last_name="Malitskaya" login_id="1"
+                 passport_number="BT818343"
+                 phone_number="380960887931" address="Lenin str., 58"
+                 birthday="1999-10-09" role_id="1"/>
+    <system_user id="2" first_name="Dima" last_name="Vasuk" login_id="2"
+                 passport_number="BC578456"
+                 phone_number="380667655903" address="1561 Duis Rd."
+                 birthday="1999-11-20" role_id="1"/>
+
+    <composition_comment id="1" user_id="1" book_id="1" comment="Very nice!" comment_date = "2017-03-24"/>
+    <composition_comment id="2" user_id="2" book_id="2" comment="Very cool!" comment_date = "2018-03-24"/>
+</dataset>

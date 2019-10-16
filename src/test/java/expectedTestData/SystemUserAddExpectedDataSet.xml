@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <system_user id="1" first_name="Nadya" last_name="Malitskaya" login_id="1"
+                 passport_number="BT818343" phone_number="380960887931"
+                 address="Lenin str., 58" birthday="1999-10-09"
+                 role_id="1"/>
+    <system_user id="2" first_name="Dima" last_name="Vasuk" login_id="2"
+                 passport_number="BC578456"
+                 phone_number="380667655903" address="1561 Duis Rd."
+                 birthday="1999-11-20" role_id="1"/>
+    <system_user id="3" first_name="Oleg" last_name="Karpenko" login_id="3"
+                 passport_number="BT954423"
+                 phone_number="380961418703" address="7326 Elementum Rd."
+                 birthday="1997-07-19" role_id="2"/>
+</dataset>

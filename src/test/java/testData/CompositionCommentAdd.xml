@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <book id="1" address_in_storage="14524" name="The Iliad" language="english"
+          volume="1"/>
+
+    <user_login id="1" login_name="nadya" password="1j2hvebjewjfcw2"
+                email="nadya@gmail.com"/>
+
+    <user_role id="1" role_name="user"/>
+
+    <system_user id="1" first_name="Nadyya" last_name="Malitskaya" login_id="1"
+                 passport_number="BT818343"
+                 phone_number="380960887931" address="Lenin str., 58"
+                 birthday="1999-10-09" role_id="1"/>
+</dataset>

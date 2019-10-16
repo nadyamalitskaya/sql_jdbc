@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <genre id="1" name="Philosophical novel"
+           description="Discoursing the function and role of society,
+           the purpose of life, ethics or morals, and etc."/>
+    <genre id="2" name="Fantasy"
+           description="A fiction set in a fictional universe, often
+           inspired by real world myth and folklore."/>
+</dataset>

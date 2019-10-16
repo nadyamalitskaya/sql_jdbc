@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <user_order id="1" user_id="1" item_id="1" address="Lenin. 70"
+                order_date="2018-09-05" return_date="2018-10-05"
+                order_status_id="1"/>
+    <user_order id="2" user_id="2" item_id="2" address="Kosoi, 45"
+                order_date="2018-03-15" return_date="2018-03-13"
+                order_status_id="1"/>
+</dataset>
+

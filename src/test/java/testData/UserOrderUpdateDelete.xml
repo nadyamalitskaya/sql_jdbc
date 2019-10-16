@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <user_login id="1" login_name="nadya" password="1j2hvebjewjfcw2"
+                email="nadya@gmail.com"/>
+    <user_login id="2" login_name="dimochka" password="12e23tiujerfervg"
+                email="dima@gmail.com"/>
+
+    <user_role id="1" role_name="user"/>
+
+    <system_user id="1" first_name="Nadya" last_name="Malitskaya" login_id="1"
+                 passport_number="BT818343"
+                 phone_number="380960887931" address="Lenin str., 58"
+                 birthday="1999-10-09" role_id="1"/>
+    <system_user id="2" first_name="Dima" last_name="Vasuk" login_id="2"
+                 passport_number="BC578456"
+                 phone_number="380667655903" address="1561 Duis Rd."
+                 birthday="1999-11-20" role_id="1"/>
+
+    <book id="1" address_in_storage="40233" name="Atlas Shrugged"
+          language="english" volume="2"/>
+    <book id="2" address_in_storage="45623" name="Wuthering Heights"
+          language="deutsch" volume="1"/>
+
+    <item_status id="1" name="Booked"/>
+
+    <item id="1" publish_year="1998" publish_office="Lebra" book_id="1"
+          item_status_id="1"/>
+    <item id="2" publish_year="2000" publish_office="Aqua" book_id="2"
+          item_status_id="1"/>
+
+    <order_status id = "1" name = "Delivered"/>
+
+    <user_order id="1" user_id="1" item_id="1" address="Lenin. 96"
+                order_date="2018-09-05" return_date="2018-10-05"
+                order_status_id="1"/>
+    <user_order id="2" user_id="2" item_id="2" address="Kosoi, 45"
+                order_date="2018-03-15" return_date="2018-03-13"
+                order_status_id="1"/>
+</dataset>
+

@@ -1,0 +1,14 @@
+DROP TABLE user_login CASCADE;
+DROP TABLE system_user CASCADE ;
+DROP TABLE  user_role CASCADE ;
+DROP TABLE book CASCADE ;
+DROP TABLE book_author CASCADE ;
+DROP TABLE book_genre CASCADE ;
+DROP TABLE author CASCADE ;
+DROP TABLE composition_comment CASCADE ;
+DROP TABLE status_comment CASCADE ;
+DROP TABLE item CASCADE ;
+DROP TABLE item_status CASCADE ;
+DROP TABLE genre CASCADE ;
+DROP TABLE order_status CASCADE ;
+DROP TABLE user_order CASCADE ;

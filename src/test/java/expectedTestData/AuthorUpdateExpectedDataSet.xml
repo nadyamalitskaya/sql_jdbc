@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <author id="1" first_name="Leo" middle_name="" last_name="Tolstoy"
+            sex="male" birthday="1828-10-09"/>
+    <author id="2" first_name="Ayn" middle_name="" last_name="Rand" sex="female"
+            birthday="1905-02-02"/>
+    <author id="3" first_name="Alex" middle_name="" last_name="Pushkin"
+            sex="male" birthday="1799-05-26"/>
+    <author id="4" first_name="Emily" middle_name="Jane" last_name="Bronte"
+            sex="female" birthday="1818-07-30"/>
+</dataset>

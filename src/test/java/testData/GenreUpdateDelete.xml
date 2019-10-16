@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <genre id="1" name="Philosophical novel"
+           description="Discoursing the function and role of society,
+           the purpose of life, ethics or morals, and etc."/>
+    <genre id="2" name="Fantasy"
+           description="A fiction set in a fictional universe, often
+           inspired by real world myth and folklore."/>
+    <genre id="3" name="Epic poetry"
+           description="Involving a time beyond living memory in which
+           occurred the extraordinary doings of the extraordinary men and women
+           who, in dealings with the gods or other superhuman forces."/>
+</dataset>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <book id="2" address_in_storage="45623" name="Wuthering Heights"
+          language="deutsch" volume="1"/>
+
+    <author id="1" first_name="Ayn" middle_name="" last_name="Rand" sex="female"
+            birthday="1905-02-02"/>
+    <author id="2" first_name="Emily" middle_name="Jane" last_name="Bronte"
+            sex="male" birthday="1818-07-30"/>
+
+    <book_author id="2" book_id="2" author_id="2"/>
+</dataset>

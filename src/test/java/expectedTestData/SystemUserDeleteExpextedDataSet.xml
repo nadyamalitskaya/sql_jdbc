@@ -1,0 +1,6 @@
+<dataset>
+    <system_user id="1" first_name="Nadya" last_name="Malitskaya" login_id="1"
+                 passport_number="BT818343"
+                 phone_number="380960887931" address="Lenin str., 58"
+                 birthday="1999-10-09" role_id="1"/>
+</dataset>

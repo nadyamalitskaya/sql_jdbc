@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <item id="1" publish_year="1998" publish_office="Lebra" book_id="1"
+          item_status_id="1"/>
+    <item id="2" publish_year="2000" publish_office="Aqua" book_id="2"
+          item_status_id="1"/>
+</dataset>
+
